@@ -1,5 +1,6 @@
 #include <iostream>
 #include <fstream>
+#include <sstream>
 #include "matematicas/Matematicas.h"
 #include "geometria/Geometria.h"
 
@@ -58,6 +59,19 @@ int main() {
     outFile << "Perimetro del circulo: " << perimetroCirculo << std::endl;
     std::cout << "Perimetro del cuadrado: " << perimetroCuadrado << std::endl;
     outFile << "Perimetro del cuadrado: " << perimetroCuadrado << std::endl;
+
+    // New code
+    std::string text;
+    std::cout << "Ingresa un texto: ";
+    std::cin.ignore(); // To ignore the newline character left in the input buffer
+    std::getline(std::cin, text);
+
+    std::stringstream ss;
+    ss << text;
+    std::string text_from_ss;
+    ss >> text_from_ss;
+    std::cout << "El texto desde el flujo de cadena es: " << text_from_ss << std::endl;
+    outFile << "El texto desde el flujo de cadena es: " << text_from_ss << std::endl;
 
     outFile.close();
     return 0;

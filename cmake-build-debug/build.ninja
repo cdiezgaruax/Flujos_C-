@@ -79,24 +79,6 @@ build CMakeFiles/Flujos_C_.dir/geometria/Triangulo.cpp.obj: CXX_COMPILER__Flujos
   OBJECT_DIR = CMakeFiles\Flujos_C_.dir
   OBJECT_FILE_DIR = CMakeFiles\Flujos_C_.dir\geometria
 
-build CMakeFiles/Flujos_C_.dir/ciencia/fisica/Fisica.cpp.obj: CXX_COMPILER__Flujos_C__unscanned_Debug C$:/Users/carlo/Desktop/uni/programacion/Flujos_C-/ciencia/fisica/Fisica.cpp || cmake_object_order_depends_target_Flujos_C_
-  DEP_FILE = CMakeFiles\Flujos_C_.dir\ciencia\fisica\Fisica.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Flujos_C_.dir
-  OBJECT_FILE_DIR = CMakeFiles\Flujos_C_.dir\ciencia\fisica
-
-build CMakeFiles/Flujos_C_.dir/ciencia/matematicas/Matematicas.cpp.obj: CXX_COMPILER__Flujos_C__unscanned_Debug C$:/Users/carlo/Desktop/uni/programacion/Flujos_C-/ciencia/matematicas/Matematicas.cpp || cmake_object_order_depends_target_Flujos_C_
-  DEP_FILE = CMakeFiles\Flujos_C_.dir\ciencia\matematicas\Matematicas.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Flujos_C_.dir
-  OBJECT_FILE_DIR = CMakeFiles\Flujos_C_.dir\ciencia\matematicas
-
-build CMakeFiles/Flujos_C_.dir/ciencia/Ciencia.cpp.obj: CXX_COMPILER__Flujos_C__unscanned_Debug C$:/Users/carlo/Desktop/uni/programacion/Flujos_C-/ciencia/Ciencia.cpp || cmake_object_order_depends_target_Flujos_C_
-  DEP_FILE = CMakeFiles\Flujos_C_.dir\ciencia\Ciencia.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Flujos_C_.dir
-  OBJECT_FILE_DIR = CMakeFiles\Flujos_C_.dir\ciencia
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Flujos_C_
@@ -105,7 +87,7 @@ build CMakeFiles/Flujos_C_.dir/ciencia/Ciencia.cpp.obj: CXX_COMPILER__Flujos_C__
 #############################################
 # Link the executable Flujos_C_.exe
 
-build Flujos_C_.exe: CXX_EXECUTABLE_LINKER__Flujos_C__Debug CMakeFiles/Flujos_C_.dir/main.cpp.obj CMakeFiles/Flujos_C_.dir/matematicas/Matematicas.cpp.obj CMakeFiles/Flujos_C_.dir/geometria/Cuadrado.cpp.obj CMakeFiles/Flujos_C_.dir/geometria/Circulo.cpp.obj CMakeFiles/Flujos_C_.dir/geometria/Triangulo.cpp.obj CMakeFiles/Flujos_C_.dir/ciencia/fisica/Fisica.cpp.obj CMakeFiles/Flujos_C_.dir/ciencia/matematicas/Matematicas.cpp.obj CMakeFiles/Flujos_C_.dir/ciencia/Ciencia.cpp.obj
+build Flujos_C_.exe: CXX_EXECUTABLE_LINKER__Flujos_C__Debug CMakeFiles/Flujos_C_.dir/main.cpp.obj CMakeFiles/Flujos_C_.dir/matematicas/Matematicas.cpp.obj CMakeFiles/Flujos_C_.dir/geometria/Cuadrado.cpp.obj CMakeFiles/Flujos_C_.dir/geometria/Circulo.cpp.obj CMakeFiles/Flujos_C_.dir/geometria/Triangulo.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Flujos_C_.dir

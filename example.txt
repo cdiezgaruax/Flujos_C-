@@ -1,0 +1,10 @@
+El numero ingresado es: 2
+Suma de 3 y 4: 7
+Resta de 7 y 2: 5
+Area del triangulo: 25
+Area del circulo: 28.2743
+Area del cuadrado: 16
+Perimetro del triangulo: 12
+Perimetro del circulo: 18.8496
+Perimetro del cuadrado: 16
+El texto desde el flujo de cadena es: hola
