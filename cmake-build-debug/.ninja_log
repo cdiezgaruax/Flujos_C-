@@ -1,0 +1,7 @@
+# ninja log v6
+43	461	7550990433210017	CMakeFiles/Flujos_C_.dir/matematicas/Matematicas.cpp.obj	7957a04f6253caec
+29	860	7551001542134255	CMakeFiles/Flujos_C_.dir/main.cpp.obj	1c839d44d6b283ca
+861	1223	7551001550451406	Flujos_C_.exe	b334886aa76df1da
+36	395	7550999812370150	CMakeFiles/Flujos_C_.dir/geometria/Cuadrado.cpp.obj	180ac253210eeef7
+37	193	7551001157091717	CMakeFiles/Flujos_C_.dir/geometria/Triangulo.cpp.obj	ecbaa59d901f1abb
+54	555	7550999812548198	CMakeFiles/Flujos_C_.dir/geometria/Circulo.cpp.obj	f69dfb20fdc6ce89

@@ -1,0 +1,3 @@
+C:/Users/carlo/Desktop/uni/programacion/Flujos_C-/cmake-build-debug/CMakeFiles/Flujos_C_.dir
+C:/Users/carlo/Desktop/uni/programacion/Flujos_C-/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/carlo/Desktop/uni/programacion/Flujos_C-/cmake-build-debug/CMakeFiles/rebuild_cache.dir

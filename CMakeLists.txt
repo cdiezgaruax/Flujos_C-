@@ -9,4 +9,8 @@ add_executable(Flujos_C_
         geometria/Geometria.h
         geometria/Cuadrado.cpp
         geometria/Circulo.cpp
-        geometria/Triangulo.cpp)
+        geometria/Triangulo.cpp
+        ciencia/fisica/Fisica.cpp
+        ciencia/matematicas/Matematicas.cpp
+        ciencia/Ciencia.h
+        ciencia/Ciencia.cpp)
