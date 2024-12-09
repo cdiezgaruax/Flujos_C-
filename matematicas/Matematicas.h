@@ -1,5 +1,3 @@
-// matematicas/Matematicas.h
-
 #ifndef MATEMATICAS_H
 #define MATEMATICAS_H
 
@@ -11,6 +9,6 @@ public:
     int restar(int a, int b);
 };
 
-} // namespace matematicas
+}
 
 #endif // MATEMATICAS_H
